@@ -1,0 +1,1 @@
+/opt/apache/bin/apachectl -k start
